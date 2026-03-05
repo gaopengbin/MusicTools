@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+yt-dlp
+demucs
+torch
+torchaudio
+httpx
+mutagen
